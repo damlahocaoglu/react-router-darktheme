@@ -3,11 +3,11 @@ import React from "react";
 function Home(props) {
   return (
     <div>
-      <section classNameName="py-5 text-center container">
-        <div classNameName="row py-lg-5">
-          <div classNameName="col-lg-6 col-md-8 mx-auto">
-            <h1 classNameName="fw-light" />
-            <p classNameName="lead text-muted">
+      <section className="py-5 text-center container">
+        <div className="row py-lg-5">
+          <div className="col-lg-6 col-md-8 mx-auto">
+            <h1 className="fw-light" />
+            <p className="lead text-muted">
               <div
                 id="carouselExampleControls"
                 className="carousel slide"
